@@ -41,9 +41,3 @@ int main()
 	return 0;
 }
 
-//int main()
-//{
-//	printf("%d\n", fib(5));
-//	system("pause");
-//	return 0;
-//}
